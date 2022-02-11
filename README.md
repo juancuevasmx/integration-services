@@ -1,8 +1,5 @@
 # integration-services
-a
-da
-asdc
-adv
-s
-vs
-df
+
+Esta es la colección oficial de los servicios necesarios para integrar nuestros productos Pomelo. En ella, encontrarás los servicios para utilizar:
+* Cards
+* * Ususarios
